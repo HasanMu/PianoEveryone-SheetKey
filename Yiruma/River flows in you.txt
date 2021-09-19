@@ -1,0 +1,19 @@
+Key         : 1 = A (-3)
+OCTShift    : 0 - 0
+Dynamic     : 70 - 100
+Sustain     : On - On
+
+Delete  -   Delete  - Delete  /  Delete                     RIGHT HAND
+H       ?     Y         F     K     T                       LEFT HAND
+
+8   +   Delete  -   Delete  - Delete  /  Delete             RIGHT HAND
+           H    ?     Y         F     K     T               LEFT HAND
+            
+8   +   Delete  -   Delete        8   -   Delete          8     /      Delete                   RIGHT HAND
+           H    ?            Y                      F           K         T                     LEFT HAND
+
+8   NumLock   8     9+      NumLock     /8      +       97                                      RIGHT HAND
+                     A      G            E               J      L       Enter                   LEFT HAND
+
+8 7 8           5 8 9 +             + NumLock /              NumLock + 9                        RIGHT HAND
+    H   ?   Y         F   K    Y              A    G    E              J    L    Enter          LEFT HAND

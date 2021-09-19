@@ -1,1 +1,10 @@
-Kunci : 1 = F (+5)
+Key         : 1 = F (+5)
+OCTShift    : 0 - 0
+Dynamic     : 70 - 100
+Sustain     : On - On
+
+A           G   W   E   | T      W   N   D   J   Q |  E  T          F   Q   T           Y  !        |
+NumLock         /   +   |    8   7       8         |  8  7   8   -          [Delete]    *     -  /  |
+
+D   J       H   E   T  NumLock  |     +  NumLock
+    5   7   8   9   +           | S H R
